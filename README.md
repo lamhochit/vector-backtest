@@ -1,2 +1,2 @@
-# vector-backtest
-⚡ Vectorised backtesting framework
+# ⚡ Vectorised backtesting framework
+![img.png](img/img.png)
